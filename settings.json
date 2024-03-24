@@ -40,7 +40,7 @@
             "cursorShape": "filledBox",
             "font": 
             {
-                "face": "Hack Nerd Font"
+                "face": "Hack Nerd Font Mono"
             }
         },
         "list": 
@@ -63,7 +63,7 @@
                 "experimental.retroTerminalEffect": false,
                 "font": 
                 {
-                    "face": "Hack Nerd Font",
+                    "face": "Hack Nerd Font Mono",
                     "weight": "normal"
                 },
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
@@ -162,25 +162,25 @@
         },
         {
             "background": "#181616",
-            "black": "#0d0c0c", 
-            "blue": "#8BA4B0", 
-            "brightBlack": "#A6A69C", 
-            "brightBlue": "#7FB4CA", 
-            "brightCyan": "#7AA89F", 
+            "black": "#0D0C0C",
+            "blue": "#8BA4B0",
+            "brightBlack": "#A6A69C",
+            "brightBlue": "#7FB4CA",
+            "brightCyan": "#7AA89F",
             "brightGreen": "#87A987",
-            "brightPurple": "#938AA9", 
-            "brightRed": "#e46876", 
-            "brightWhite": "#C5C9C5", 
-            "brightYellow": "#E6C384", 
+            "brightPurple": "#938AA9",
+            "brightRed": "#E46876",
+            "brightWhite": "#C5C9C5",
+            "brightYellow": "#E6C384",
             "cursorColor": "#C8C093",
-            "cyan": "#8EA4A2", 
+            "cyan": "#8EA4A2",
             "foreground": "#C5C9C5",
             "green": "#8A9A7B",
             "name": "Kanagawa-Dragon",
-            "purple": "#A292A3", 
+            "purple": "#A292A3",
             "red": "#C4746E",
             "selectionBackground": "#2D4F67",
-            "white": "#C8C093", 
+            "white": "#C8C093",
             "yellow": "#C4B28A"
         },
         {
